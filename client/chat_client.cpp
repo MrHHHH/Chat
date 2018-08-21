@@ -5,7 +5,7 @@
 #include "data.h"
 #include "window.h"
 
-
+ 
 static void usage(const char *proc)
 {
 	std::cout << "\nUsage:\n\t" << proc << " [server_ip] [server_port]\n" << std::endl;
