@@ -1,4 +1,4 @@
-ROOT_PATH=$(shell pwd)
+ROOT_PATH=$(shell pwd) 
 SERVER_PATH=$(ROOT_PATH)/server
 CLIENT_PATH=$(ROOT_PATH)/client
 WINDOW_PATH=$(ROOT_PATH)/window
